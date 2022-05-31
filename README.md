@@ -14,7 +14,7 @@ In this repository, we provide the software and documents developed in support o
 
 <h3>Scripts:   </h3>  
 <ul>
-  <li><b>triple_point_collocation.m:</b>   Triple Point Collocation Analysis for satellite (SMAP, SMOS) Level 3 and gridded Argo data</li> 
+  <li><b>triple_point_collocation.m:</b>   Triple Point Collocation Analysis for satellite (SMAP, SMOS) Level 3 and gridded Argo data. </li> 
 </ul>
  
 
