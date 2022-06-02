@@ -20,6 +20,8 @@ In this repository, we provide the software and documents developed in support o
 <li><b>covariance_triple_point_collocation.m:</b>   Basic Triple Point Collocation Analysis for any combination of datasets using covariance notation</li> 
 <li><b>triple_point_usecase_monthlyL3.m:</b>   Example usecase for triple collocation analysis with Monthly, L3 SMAP, SMOS, and RG Argo </li> 
 </ul>
+<li><b>Doumentation_TriplePointCollocationCodeandExampleUseCase_v1.pdf:</b>   Documentation for implementation triple_point_usecase_monthlyL3.m and covariance_triple_point_collocation.m with Monthly, L3 SMAP, SMOS, and RG Argo. Included figures for temporal and spatial RMSD for each dataset. For a repository of the usecase data, email janderson@esr.org </li> 
+</ul>
 
 <h3>Scripts:   </h3>  
 <ul>
