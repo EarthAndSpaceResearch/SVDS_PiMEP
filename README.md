@@ -19,6 +19,7 @@ In this repository, we provide the software and documents developed in support o
 <ul>
 <li><b>covariance_triple_point_collocation.m:</b>   Basic Triple Point Collocation Analysis for any combination of datasets using covariance notation</li> 
 </ul>
+</ul>
 <li><b>triple_point_usecase_monthlyL3.m:</b>   Example usecase for triple collocation analysis with Monthly, L3 SMAP, SMOS, and RG Argo </li> 
 </ul>
 
