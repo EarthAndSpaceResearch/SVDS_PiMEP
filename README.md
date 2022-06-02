@@ -10,15 +10,13 @@ Scientists at <a href="https://www.esr.org/">Earth and Space Research (ESR)</a> 
 <hr>
 In this repository, we provide the software and documents developed in support of this project: 
 
- 
+<h3>Documents:</h3>   
+<ul>
+<li><b><i>Comparing Satellite Salinity Retrievals with In Situ Measurements: A Recommendation for Aquarius and SMAP </b></i></li>
+</ul>
 
 <h3>Scripts:   </h3>  
 <ul>
   <li><b>triple_point_collocation.m:</b>   Triple Point Collocation Analysis for satellite (SMAP, SMOS) Level 3 and gridded Argo data. </li> 
 </ul>
  
-
-<h3>Documents:</h3>   
-<ul>
-  <li><b><i>Comparing Satellite Salinity Retrievals with In Situ Measurements: A Recommendation for Aquarius and SMAP </b></i></li>
-</ul>
