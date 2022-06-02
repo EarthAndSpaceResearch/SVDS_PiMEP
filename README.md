@@ -15,6 +15,11 @@ In this repository, we provide the software and documents developed in support o
 <li><b><i>Comparing Satellite Salinity Retrievals with In Situ Measurements: A Recommendation for Aquarius and SMAP </b></i></li>
 </ul>
 
+<h3>TripleCollocation:   </h3>  
+<ul>
+<li><b>covariance_triple_point_collocation.m:</b>   Basic Triple Point Collocation Analysis for any combination of datasets using covariance notation</li> 
+</ul>
+
 <h3>Scripts:   </h3>  
 <ul>
   <li><b>triple_point_collocation.m:</b>   Triple Point Collocation Analysis for satellite (SMAP, SMOS) Level 3 and gridded Argo data. </li> 
