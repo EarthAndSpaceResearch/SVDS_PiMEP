@@ -24,8 +24,12 @@ In this repository, we provide the software and documents developed in support o
 <li><b>triple_point_usecase_monthlyL3.ipynb:</b>   Example usecase for triple collocation analysis with Monthly, L3 SMAP, SMOS, and RG Argo <i>coming july 2022</i></li> 
 </ul>
 
+![spatial_readmeplot](https://user-images.githubusercontent.com/40212307/181094552-69cf8161-fa10-4e9a-807c-4a70603b69b6.jpg)
+
 <h3>Scripts:   </h3>  
 <ul>
   <li><b>triple_point_collocation.m:</b>   Triple Point Collocation Analysis for satellite (SMAP, SMOS) Level 3 and gridded Argo data. </li> 
 </ul>
  
+
+
