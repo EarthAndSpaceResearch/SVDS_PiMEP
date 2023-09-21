@@ -1,5 +1,5 @@
-# PiMEP
-<i><b>Software and documents developed in support of the PiMEP NASA-ESA Collaboration and Salinity Validation Data System</i></b>
+# SVDS and PiMEP
+<i><b>Software and documents developed in support of the Salinity Validation Data System (SVDS) and the PiMEP NASA-ESA Collaboration</i></b>
 
 <br>
 ESA’s Salinity Pilot Mission Exploitation Platform (<a href="https://www.salinity-pimep.org/">Salinity Pi-MEP</a>) is an innovative platform that allows users to evaluate the quality of satellite salinity data using matchups within situ data, statistical tools, mapping and visualization tools, and automated report generation.  
