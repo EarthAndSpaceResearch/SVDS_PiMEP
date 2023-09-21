@@ -3,7 +3,8 @@
 
 <br>
 The Salinity Validation Data System (SVDS) (<a href="https://www.esr.org/data-products/svds/">SVDS</a>) insert text here
-<br><br>
+<br>
+
 <br>
 ESA’s Salinity Pilot Mission Exploitation Platform (<a href="https://www.salinity-pimep.org/">Salinity Pi-MEP</a>) is an innovative platform that allows users to evaluate the quality of satellite salinity data using matchups within situ data, statistical tools, mapping and visualization tools, and automated report generation.  
 <br><br>
