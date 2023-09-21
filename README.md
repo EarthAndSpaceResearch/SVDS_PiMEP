@@ -8,7 +8,7 @@ Scientists at <a href="https://www.esr.org/">Earth and Space Research (ESR)</a> 
 <br><br>
 
 <hr>
-In this repository, we provide the software and documents developed in support of this project: 
+In this repository, we provide the software and documents developed in support of SVDS and the PiMEP project: 
 
 <h3>Documents:</h3>   
 <ul>
