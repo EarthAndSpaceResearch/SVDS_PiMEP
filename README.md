@@ -16,7 +16,7 @@ In this repository, we provide the software and documents developed in support o
 
 <h3>Documents:</h3>   
 <ul>
-<li><b>Comparing Satellite Salinity Retrievals with In Situ Measurements: A Recommendation for Aquarius and SMAP </b></li>
+<li><b>Comparing Satellite Salinity Retrievals with In Situ Measurements: A Recommendation for Aquarius and SMAP </b> (Version 1) </li>
 </ul>
 
 <h3>TripleCollocation:   </h3>  
