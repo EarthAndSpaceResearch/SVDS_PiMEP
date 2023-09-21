@@ -2,7 +2,7 @@
 <i><b>Software and documents developed in support of SVDS and the PiMEP NASA-ESA Collaboration</i></b>
 
 <br>
-The Salinity Validation Data System (SVDS) (<a href="https://www.esr.org/data-products/svds/">SVDS</a>) insert text here
+The Salinity Validation Data System (<a href="https://www.esr.org/data-products/svds/">SVDS</a>) was developed at ESR to provide systematic estimation and assessment of satellite sea surface salinity over the global ocean, including but not limited to match-up with in situ data and triple point collocation analysis.
 <br>
 
 <br>
