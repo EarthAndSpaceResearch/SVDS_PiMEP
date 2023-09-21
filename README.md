@@ -16,7 +16,7 @@ In this repository, we provide the software and documents developed in support o
 
 <h3>Documents:</h3>   
 <ul>
-<li><b>Comparing Satellite Salinity Retrievals with In Situ Measurements: A Recommendation for Aquarius and SMAP </b> (Version 1) </li>
+<li><b>Comparing Satellite Salinity Retrievals with In Situ Measurements: A Recommendation for Aquarius and SMAP </b> (Version 1). Schanze, Julian J., David M. LeVine, Emmanuel P. Dinnat, Hsun‐Ying Kao. (2020). Zenodo. https://doi.org/10.5281/zenodo.4769713  </li>
 </ul>
 
 <h3>TripleCollocation:   </h3>  
