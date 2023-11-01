@@ -22,7 +22,7 @@ In this repository, we provide the software and documents developed in support o
 
 <h3>SVDS:   </h3>  
 <ul>
-<li><b>Coming Soon!</b> Code used in support of the Salinity Data Validation System</li> 
+<li><b>Coming Soon!</b> Salinity Data Validation System Code</li> 
 </ul>
 
 <h3>TripleCollocation:   </h3>  
