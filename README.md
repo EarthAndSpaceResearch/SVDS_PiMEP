@@ -20,7 +20,7 @@ In this repository, we provide the software and documents developed in support o
 <li><b>NASA/RSS SMAP Salinity Version 5.0 Validation Analysis </b> Kao, Hsun-Ying, Anderson, Jesse E., Schanze, Julian J., Howard, Susan (2023). <a href="https://doi.org/10.5281/zenodo.8368125"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8368125.svg" alt="DOI"></a> </li> 
 </ul>
 
-<h3>Documents:</h3>
+<h3>SVDS:</h3>
 
 <h3>TripleCollocation:   </h3>  
 <ul>
